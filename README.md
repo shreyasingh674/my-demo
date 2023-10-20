@@ -1,6 +1,6 @@
 # my-demo
 This is my  first Git Repository.
 <br>
-AUTHOR-Shreya Singh
+AUTHOR- SHREYA SINGH 
 <br>
 Learning Git-Hub.
